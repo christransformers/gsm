@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.gsmlawyers.com.au/sitemap.xml
